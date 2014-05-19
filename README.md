@@ -1,5 +1,5 @@
-svn-release
-===========
+svn-tag
+=======
 
 A shell script to ease and automate the process of releasing software versioned under a Subversion repository.
 
@@ -16,7 +16,7 @@ The repository must follow the standard svn layout, having the following directo
 
 #### Example
 
-    svn-release 1.2.3
+    svn-tag 1.2.3
     
 This command executes the following operations:
 
